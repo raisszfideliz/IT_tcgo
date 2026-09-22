@@ -1,7 +1,5 @@
 # Contéudos  B02 - Técnico de Controle Externo
 
-CONTEÚDOS 
-
 Engenharia de Software 
 Fundamentos da engenharia de software; ciclo de vida de software; abordagens de ciclo de vida preditiva, iterativa, incremental e adaptativa/ágil, inclusive suas combinações.
 Abordagens, métodos e frameworks ágeis: Scrum, Kanban, Lean Software Development e Extreme Programming (XP). Levantamento, especificação, análise, validação e gerenciamento de requisitos funcionais 
