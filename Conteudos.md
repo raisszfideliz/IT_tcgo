@@ -1,5 +1,4 @@
-# IT_tcgo
- B02 - Técnico de Controle Externo
+# Contéudos  B02 - Técnico de Controle Externo
 
 CONTEÚDOS 
 
